@@ -2,8 +2,6 @@
 
 Projeto desenvolvido pelo curso [Data Visualization: criação de gráficos com o Matplotlib](https://cursos.alura.com.br/course/customizacao-matplot), na plataforma da **[Alura](https://www.alura.com.br/)**.
 
-<div align='center' style='display: inline_block'><img src="" alt="Gif do notebook no Jupyter"></div>
-
 ## Sobre o projeto
 EM CONSTRUÇÃO.
 
