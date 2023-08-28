@@ -14,6 +14,11 @@ EM CONSTRUÇÃO.
 ## Como reproduzir este repositório?
 Você pode fazer um `git clone` do repositório para a sua máquina e a partir do **Anaconda** abrir o **Jupyter** e os notebooks localmente!
 
+Caso queira visualizar *os notebooks* de forma online, aqui estão os links:
+
+- Notebook dos dados de [temperatura](https://colab.research.google.com/drive/1KT99E-D3aLfHfuEo33TCXpWx8Ub2RtqK?usp=sharing);
+- Notebook dos dados das [espécies](https://colab.research.google.com/drive/1iWtXJSQUpJqvypoMYjCv_j-O6Dtx00cK?usp=sharing).
+
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
