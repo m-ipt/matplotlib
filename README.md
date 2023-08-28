@@ -9,7 +9,7 @@ EM CONSTRUÇÃO.
 EM CONSTRUÇÃO.
 
 ## Tecnologias utilizadas neste projeto:
-<img height="20" src="https://img.shields.io/badge/Jupyter_Notebook-orange"> <img height="20" src="https://img.shields.io/badge/Python-yellow"> <img height="20" src="https://img.shields.io/badge/Matplotlib-red"> <img height="20" src="https://img.shields.io/badge/NumPy-%234C4A73"> <img height="20" src="https://img.shields.io/badge/Pandas-turquoise">
+<img height="20" src="https://img.shields.io/badge/Jupyter_Notebook-orange"> <img height="20" src="https://img.shields.io/badge/Python-yellow"> <img height="20" src="https://img.shields.io/badge/Matplotlib-red"> <img height="20" src="https://img.shields.io/badge/NumPy-%234C4A73"> <img height="20" src="https://img.shields.io/badge/Pandas-turquoise"> <img height="20" src="https://img.shields.io/badge/Pillow-lightgray">
 
 ## Como reproduzir este repositório?
 Você pode fazer um `git clone` do repositório para a sua máquina e a partir do **Anaconda** abrir o **Jupyter** e os notebooks localmente!
