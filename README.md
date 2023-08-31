@@ -2,9 +2,11 @@
 
 Projeto desenvolvido pelo curso [Data Visualization: criação de gráficos com o Matplotlib](https://cursos.alura.com.br/course/customizacao-matplot), na plataforma da **[Alura](https://www.alura.com.br/)**.
 
+<div align='center' style='display: inline_block'><img src="https://i.imgur.com/nEj68pl.gif" alt="Gif do notebook das visualizações das espécies"></div>
+
 <details>
   <summary>Gif do notebook das visualizações de temperatura</summary>
-<div align='center' style='display: inline_block'><img src="" alt="Gif do notebook das visualizações de temperatura"></div>
+<div align='center' style='display: inline_block'><img src="https://i.imgur.com/WICMeNj.gif" alt="Gif do notebook das visualizações de temperatura"></div>
 </details>
 
 ## Sobre o projeto
